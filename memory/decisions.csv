@@ -1,0 +1,2 @@
+date,decision,reasoning,expected_outcome,review_date,status
+2026-03-15,Adopt decisions.csv for structured decision logging,Markdown decisions.md lacks machine-readable structure for automated review flagging,"All decisions are timestamped, reviewable, and automatically flagged 30 days out",2026-04-14,PENDING
